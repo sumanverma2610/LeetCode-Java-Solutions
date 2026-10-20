@@ -8,6 +8,7 @@ This repository contains my LeetCode problem solutions using Java. I am practici
 | # | Problem | Topic | Solution |
 |---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, HashMap | [View Code](./Arrays/TwoSum.java) |
+| 2 | [Misiing Number](https://leetcode.com/problems/missing-number/) | Arrays, XOR  | [View Code](./Arrays/MissingNumber.java) |
 
 ## Languages Used
 - Java
